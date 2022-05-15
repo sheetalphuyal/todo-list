@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_airline_seat_recline_extra_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_arrow_circle_up_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_next_week_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_note_add_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_outlined_flag_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/Todoister/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/TBC/sem 8/Mobile Application/c7227236/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
